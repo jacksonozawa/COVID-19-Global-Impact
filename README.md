@@ -34,7 +34,7 @@ This dashboard contains five distinct visualizations:
   4. Fatality Rate vs Vaccination Rate - Scatterplot to show the relationship between Fatality Rate and Vaccination Rate of all countries
   5. Global Trends Over Time - Dual-axis line graph illustrating the Rolling Death Count and Vaccination Count over time
 
-![Dashboard Preview](covid_dashboard.pdf)
+![Dashboard Preview](covid_analysis_dashboard.png)
 
 ### Data Sources
 Two data sets were used in this project, CovidDeaths.xlsx and CovidVaccinations.xlsx files. Both datasets are sourced from Our World In Data. 
