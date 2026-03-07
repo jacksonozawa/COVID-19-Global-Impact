@@ -11,7 +11,7 @@ The objective was to explore how vaccination rollout correlated with mortality t
 
 ## Tools
 * SQL (BigQuery)
-  * Data cleaning
+  * Data extraction, cleaning, and analysis
   * Aggregation
   * Joins
   * CTEs
