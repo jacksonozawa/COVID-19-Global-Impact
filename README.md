@@ -28,7 +28,9 @@ The objective was to explore how vaccination rollout correlated with mortality t
 EDA queries can be found in covid_EDA_queries.sql
   
 ## Dashboard and Vizualization
-I queried two separate tables to use for my Tableau visualizations, seen in covid_tableau_queries.sql.
+I queried two separate tables to use for my Tableau visualizations, seen in covid_tableau_queries.sql.  
+
+[Click here to view interactive dashboard!](https://public.tableau.com/views/COVID-19GlobalImpact_17724822203620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard contains five distinct visualizations:
   1. Global KPI Summary - Table containing Total Cases, Total Deaths, Total Vaccinations, Global Fatality Rate, and Global Vaccination Rate
